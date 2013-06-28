@@ -1,0 +1,44 @@
+PinBlue
+http://wpthemes.co.nz/pinblue-theme/
+
+/*************************************************
+Version 1.2.2
+*************************************************/
+- updated the css media queries for small screen devices
+
+/*************************************************
+Version 1.2.1
+*************************************************/
+- fixed the seo-seeded footer link anchor text
+
+***********************************
+Version 1.2
+***********************************
+- replaced get_template_directory_uri() with get_stylesheet_uri() to enqueue stylesheet in functions.php
+- updated the footer credit
+
+***********************************
+Version 1.1.3
+***********************************
+- Replaced HTML5 shiv with Modernizr and added Modernizr functions
+- Removed the stylesheet in header.php and added it in functions.php instead
+- Updated the title filter function
+- Fixed some css issues
+- Updated footer credit
+- Updated readme.txt
+
+
+***********************************
+Version 1.1.2
+***********************************
+- Added copyright info for HTML5 shiv on readme.txt
+- Replaced bloginfo( 'stylesheet_url' ) with get_stylesheet_uri() in header.php
+- Updated theme uri
+
+
+***********************************
+Version 1.1.1
+***********************************
+
+- Replaced jquery with CSS3 media queries for screen detection
+- Fixed minor css issues
